@@ -291,9 +291,8 @@ button {
   color: #fff;
 }
 
-.section-title--keycolor {background-color: #708090;}
-  background-color: #39b54a;
-}
+.section-title--keycolor 
+  background-color: #708090
 
 .section-title--story {
   width: 330px;
