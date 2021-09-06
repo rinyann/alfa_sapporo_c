@@ -291,9 +291,9 @@ button {
   color: #fff;
 }
 
-.section-title--keycolor 
-  background-color:#a9a9a9
-
+.section-title--keycolor {
+  background-color:#dcdcdc
+}
 .section-title--story {
   width: 330px;
   margin: 0 auto 20px;
