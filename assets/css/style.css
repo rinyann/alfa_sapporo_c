@@ -78,7 +78,7 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #d4d9dc;
+  background-color: #bfbec5;
   color: #fff;
   width: 287px;
   height: 55px;
@@ -243,7 +243,7 @@ button {
 }
 
 .bg-color--subcolor {
-  background-color: #d4d9dc;
+  background-color: #bfbec5;
 }
 
 .bg-color--gray {
@@ -274,7 +274,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d4d9dc;
+  background-color: #bfbec5;
   margin: 0 -20px 20px -20px;
 }
 
@@ -284,7 +284,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #d4d9dc;
+  background-color: #bfbec5;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -335,7 +335,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #d4d9dc;
+  background-color: #bfbec5;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
@@ -452,7 +452,7 @@ button {
 }
 
 .clear-message {
-  background-color: #d4d9dc;
+  background-color: #bfbec5;
   padding: 30px 30px 60px;
   position: relative;
 }
