@@ -243,7 +243,7 @@ button {
 }
 
 .bg-color--subcolor {
-  background-color: #d9e021;
+  background-color: #d4d9dc;
 }
 
 .bg-color--gray {
@@ -274,7 +274,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d9e021;
+  background-color: #d4d9dc;
   margin: 0 -20px 20px -20px;
 }
 
@@ -452,7 +452,7 @@ button {
 }
 
 .clear-message {
-  background-color: #d9e021;
+  background-color: #d4d9dc;
   padding: 30px 30px 60px;
   position: relative;
 }
